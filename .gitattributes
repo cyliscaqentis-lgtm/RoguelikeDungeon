@@ -1,0 +1,17 @@
+﻿* text=auto
+
+# C++ ソース
+*.h   text
+*.hpp text
+*.cpp text
+
+# Unreal 関連
+*.ini      text
+*.uproject text
+*.uplugin  text
+
+# バイナリ扱い
+*.png    binary
+*.jpg    binary
+*.uasset binary
+*.umap   binary
